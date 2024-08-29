@@ -1,0 +1,15 @@
+{
+  "name": "crawl-test-for",
+  "version": "1.0.0",
+  "description": "Crawl test for something",
+  "main": "index.js",
+  "dependencies": {
+    "cheerio": "^1.0.0",
+    "puppeteer": "^23.2.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
